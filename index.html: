@@ -1,0 +1,17 @@
+<title>Chefbook[cherry joy]</title>
+<header>chefcherry joy</header>
+<p>SPECIALIZING IN FILIPINO CUISINE</p>
+
+<section id='about'>:
+  <h2>My Culinary Philosophy</h2>:
+<p></p>"I am a passionate chef specializing in Filipino cuisine, drawing inspiration from my heritage and family traditions. My culinary philosophy centers around using fresh, locally sourced ingredients to create comforting yet innovative dishes. I aim to highlight the vibrant flavors of the Philippines while applying modern culinary techniques for a refined dining experience."
+
+  <section id='menu'>:
+    <h2>Signature Dishes $ Menus</h2>:</h2>
+    <p> Explore my culinary creations.See the <a href='menu.md'>menu.md</a>a> file for details.</p>:
+
+ <section id='gallery'>
+     <h2>Gallery</h2>:</h2>
+     <p>[This section will eventually display images...]</p>
+    
+      

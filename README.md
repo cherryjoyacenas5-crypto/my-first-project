@@ -1,5 +1,5 @@
 # Chefbook:My Culinary Journey
-Welcom to my digital portfolio,a curated collection of my culinarly expertise,signiture dishes,and cooking methodologies.This respository serves as a testament to my passion for food,from farm-to-table ingredients to innovative creations.
+Welcome to my digital portfolio,a curated collection of my culinarly expertise,signiture dishes,and cooking methodologies.This respository serves as a testament to my passion for food,from farm-to-table ingredients to innovative creations.
 
 ##About Me
 I am a passionate chef specializing in [filipino cuisine ,Basic food preparations ]. My culinary philosophy centers around[sustainable sourcing ,seasonal ingredients, bold flavor combinations].
